@@ -1,0 +1,6 @@
+EditorTabs
+=========
+
+This is a multi tabs plugin for qtcreator(>=2.4.x) editor mode, you can download the src and compile it to generate the plugin.
+
+Note: If you want to compile the project(qt), you must change the ${QTC_SOURCE} & ${QTC_BUILD} in file  'EditorTabs.pro' according to your env.
